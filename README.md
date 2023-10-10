@@ -28,4 +28,8 @@ Our findings which would be suggested to the lending club to minimize the credit
 
 Contributors:
 1) Koushik 
-2) Monal 
+2) Monal
+
+Contact:
+koushikmaddipudishiri@gmail.com
+monalokhandiar2008@gmail.com
