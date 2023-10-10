@@ -1,10 +1,10 @@
 # Lending-Club-Case-Study
 
-#Problem Statement
+Problem Statement
 For lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). These Companies faces Credit loss when the borrower “defaults ” i.e.  refuses to pay or runs away with the money owed. 
 In this case study , the company wants to understand the driving factors (or driver variables) behind loan default, i.e.the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment which can help them to minimise huge credit loss.
 
-#Our Approach
+Our Approach
 1) For the given data set , first we will do data cleaning 
 2) Identify the columns which are actually helpful for our analysis
 3) Perform EDA (univariate, segmented univariate and bivariate)
@@ -12,7 +12,7 @@ In this case study , the company wants to understand the driving factors (or dr
 5) Final insights inferred from all the above observations
 
 
-#Our findings which would be suggested to the lending club to minimize the credit loss
+Our findings which would be suggested to the lending club to minimize the credit loss
 1) Club should issue balanced number of loans to borrowers from CA, FL and NY
 2) Club should reduce issuing higher number of loans of 60 months tenure
 3) Club should reduce issuing loans for credit card, debt consolidation
@@ -22,6 +22,6 @@ In this case study , the company wants to understand the driving factors (or dr
 7) Club should not issue loan to borrowers with DTI is between 12-18
 8) House ownership only is not the deciding factor for defaulting
 
-#Contributors
+Contributors
 1) Koushik 
 2) Monal 
