@@ -2,7 +2,8 @@
 
 Problem Statement
 For lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). These Companies faces Credit loss when the borrower “defaults ” i.e.  refuses to pay or runs away with the money owed. 
-In this case study , the company wants to understand the driving factors (or driver variables) behind loan default, i.e.the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment which can help them to minimise huge credit loss.
+In this case study , the company wants to understand the driving factors (or driver variables) behind loan default, i.e.the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment which can help them to minimise huge credit loss.
+
 
 Our Approach
 1) For the given data set , first we will do data cleaning 
@@ -10,6 +11,7 @@ Our Approach
 3) Perform EDA (univariate, segmented univariate and bivariate)
 4) Observations are taken note by looking at the plots
 5) Final insights inferred from all the above observations
+
 
 
 Our findings which would be suggested to the lending club to minimize the credit loss
@@ -21,6 +23,7 @@ Our findings which would be suggested to the lending club to minimize the credit
 6) Borrowers with higher annual income are more likely to completely pay off.
 7) Club should not issue loan to borrowers with DTI is between 12-18
 8) House ownership only is not the deciding factor for defaulting
+
 
 Contributors
 1) Koushik 
