@@ -44,4 +44,6 @@ Project Name
 
 
 ## Contact
-Created by @shirikoushik (koushikmaddipudishiri@gmail.com) - feel free to contact me!
+Created by @shirikoushik (koushikmaddipudishiri@gmail.com) 
+
+monalokhandiar2008@gmail.com - feel free to contact us!
